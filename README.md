@@ -1,4 +1,3 @@
-<img width="1076" height="466" alt="Dashboard _Image" src="https://github.com/user-attachments/assets/755f6943-10cb-42dc-a3cc-712822a45920" /># Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 
 ## Project Objective
